@@ -1,0 +1,14 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "MMCJMTname",
+            "MMC-filename": "MMCJMTfile",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:MMCJMTname:1.0"
+        }
+    ],
+    "name": "MMCJMTname",
+    "uid": "org.multimc.jarmod.MMCJMTname",
+    "version": "MMCJMTversion"
+}

@@ -1,0 +1,10 @@
+{
+    "components": [
+        {
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "MMCJMTver"
+        }
+    ],
+    "formatVersion": 1
+}
